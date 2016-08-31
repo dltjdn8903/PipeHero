@@ -1,0 +1,11 @@
+/Library
+/Temp
+*.suo
+*.sln
+*.sln.docstates
+*.unityproj
+*.csproj
+*.pidb
+*.userprefs
+*.DS_Store
+Thumbs.db
