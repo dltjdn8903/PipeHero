@@ -1,0 +1,58 @@
+{
+	"EFFECT_TEMPLATE": {
+		"HIT": {
+			"RESOURCE_NAME": "Pf_Effect_Hit",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"EXPLOSION": {
+			"RESOURCE_NAME": "Pf_Effect_Explosion",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"AGGRO": {
+			"RESOURCE_NAME": "Pf_Effect_Aggro",
+			"TYPE": 1,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"WHIRLWIND": {
+			"RESOURCE_NAME": "Pf_Effect_Whirldwind",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"IMMUNE_0": {
+			"RESOURCE_NAME": "Pf_Effect_Immune_0",
+			"TYPE": 1,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"IMMUNE_1": {
+			"RESOURCE_NAME": "Pf_Effect_Immune_1",
+			"TYPE": 1,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"SUMMON": {
+			"RESOURCE_NAME": "Pf_Effect_Summon",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"METEOR": {
+			"RESOURCE_NAME": "Pf_Effect_Meteor",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		},
+		"FIRENOVA": {
+			"RESOURCE_NAME": "Pf_Effect_FireNova",
+			"TYPE": 0,
+			"TIME": 0,
+			"ADDION_TIME": 0
+		}
+	}
+}

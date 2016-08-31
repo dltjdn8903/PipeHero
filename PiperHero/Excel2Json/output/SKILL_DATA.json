@@ -1,0 +1,124 @@
+{
+	"SKILL_DATA": {
+		"SKEL_MELEE_1": {
+			"RANGE": 1.5,
+			"COMBO_A": [
+				"MELEE_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"SKEL_RANGE_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"RANGE_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"WAR_AGRRO_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"AGRRO_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"WAR_WHIRLWIND_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"WHIRLWIND_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"WAR_IMMUNE_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"IMMUNEDAMAGE_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"GUN_PIERCING_T_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"PIERCING_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"GUN_RAMPAGE_T_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"RAMPAGE_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"GUN_HIDE_T_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"HIDE_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"MAG_HEAL_T_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"HEAL_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"MAG_FIREBALL_T_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"FIREBALL_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"MAG_BUFF_T_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"BUFF_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"BOSS_FIRENOVA_T_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"FIRENOVA_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"BOSS_SUMMON_T_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"SUMMON_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"BOSS_METEOR_T_1": {
+			"RANGE": 0,
+			"COMBO_A": [
+				"METEOR_T_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		},
+		"BOSS_METEOR_BULLET_1": {
+			"RANGE": 4,
+			"COMBO_A": [
+				"METEOR_BULLET_1"
+			],
+			"COMBO_B": [],
+			"COMBO_C": []
+		}
+	}
+}

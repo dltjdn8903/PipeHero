@@ -1,0 +1,56 @@
+{
+	"CHARACTER_TEMPLATE": {
+		"CHARACTER_1": {
+			"CLASS": CLASS_SWORD,
+			"MAX_HP": 100,
+			"ATTACK": 10,
+			"DEFENCE": 3,
+			"NORMAL_ATTACK": [
+				"SKEL_MELEE_1",
+				"SKEL_MELEE_2"
+			],
+			"SKILL": [],
+			"PASSIVE": []
+		},
+		"CHARACTER_2": {
+			"CLASS": CLASS_MAGICIAN,
+			"MAX_HP": 80,
+			"ATTACK": 15,
+			"DEFENCE": 0,
+			"NORMAL_ATTACK": [
+				"SKEL_RANGE_1",
+				"SKEL_RANGE_2"
+			],
+			"SKILL": [],
+			"PASSIVE": []
+		},
+		"PLAYER_SWORDNSHILD": {
+			"CLASS": 1,
+			"MAX_HP": 204,
+			"ATTACK": 50,
+			"DEFENCE": 5,
+			"NORMAL_ATTACK": [SKEL_MELEE_1],
+			"SKILL": [],
+			"PASSIVE": []
+		},
+		"	": {
+			"CLASS": 2,
+			"MAX_HP": 1000,
+			"ATTACK": 100,
+			"DEFENCE": 5,
+			"NORMAL_ATTACK": [SKEL_RANGE_1, SKEL_RANGE_2],
+			"SKILL": [],
+			"PASSIVE": []
+		},
+		"PLAYER_STAFF": {
+			"CLASS": 3,
+			"MAX_HP": 500,
+			"ATTACK": 20,
+			"DEFENCE": 5,
+			"NORMAL_ATTACK": [SKEL_RANGE_1, SKEL_RANGE_2],
+			"SKILL": [],
+			"PASSIVE": []
+		}
+
+	}
+}
