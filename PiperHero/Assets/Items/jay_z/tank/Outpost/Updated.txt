@@ -1,7 +1,0 @@
-1.1
-Adjustment Actions
-Attach MAX files (3dsmax 2012 x64)
-Update webplay Website
-Add effects
-
-1.0
