@@ -1,0 +1,27 @@
+{
+	"SCENE_INFO": {
+		"STATE_TYPE_LOGO": {
+			"SCENE_NAME": "LogoScene",
+			"UI": [
+				"Pf_Ui_Logo"
+			],
+			"OBJECT": []
+		},
+		"STATE_TYPE_LOBBY": {
+			"SCENE_NAME": "LobbyScene",
+			"UI": [
+				"Pf_Ui_Lobby"
+			],
+			"OBJECT": [
+				"CharacterView"
+			]
+		},
+		"STATE_TYPE_STAGE": {
+			"SCENE_NAME": "StageScene",
+			"UI": [
+				"Pf_UI_Dungeon"
+			],
+			"OBJECT": []
+		}
+	}
+}

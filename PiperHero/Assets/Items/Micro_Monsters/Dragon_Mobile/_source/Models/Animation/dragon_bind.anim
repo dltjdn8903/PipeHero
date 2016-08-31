@@ -1,0 +1,1018 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: dragon_bind
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 0
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .00623541977, w: .999980569}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: 0, z: .00623541977, w: .999980569}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: 0, z: .00623541977, w: .999980569}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: 0, z: .00623541977, w: .999980569}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: .00623541977, w: .999980569}
+        inSlope: {x: 0, y: 0, z: -.0748250559, w: .000233173429}
+        outSlope: {x: 0, y: 0, z: -.0748250559, w: .000233173429}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:right_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0620006658, y: -.0159051307, z: .0165895596, w: .997811496}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.0620006658, y: -.0159051307, z: .0165895596, w: .997811496}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.0620006658, y: -.0159051307, z: .0165895596, w: .997811496}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.0620006658, y: -.0159051307, z: .0165895596, w: .997811496}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0620006658, y: -.0159051307, z: .0165895596, w: .997811496}
+        inSlope: {x: .744008183, y: .190861613, z: -.19907476, w: .0262620505}
+        outSlope: {x: .744008183, y: .190861613, z: -.19907476, w: .0262620505}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:snout_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:left_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0408446267, y: -.0030668457, z: .0222054794, w: .998914003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .0408446267, y: -.0030668457, z: .0222054794, w: .998914003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0408446267, y: -.0030668457, z: .0222054794, w: .998914003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: .0408446267, y: -.0030668457, z: .0222054794, w: .998914003}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .0408446267, y: -.0030668457, z: .0222054794, w: .998914003}
+        inSlope: {x: -.49013564, y: .0368021578, z: -.266465813, w: .0130319623}
+        outSlope: {x: -.49013564, y: .0368021578, z: -.266465813, w: .0130319623}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:eyes_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:brows_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0211031083, y: 0, z: -0, w: .999777317}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.0211031083, y: 0, z: -0, w: .999777317}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.0211031083, y: 0, z: -0, w: .999777317}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.0211031083, y: 0, z: -0, w: .999777317}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0211031083, y: 0, z: -0, w: .999777317}
+        inSlope: {x: .253237367, y: 0, z: 0, w: .00267219613}
+        outSlope: {x: .253237367, y: 0, z: 0, w: .00267219613}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag/micro_dragon_clean:left_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00274061901, y: -0, z: -0, w: .999996245}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .00274061901, y: 0, z: 0, w: .999996245}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag/micro_dragon_clean:right_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.130235121, y: -.149139747, z: -.0198195893, w: .980001688}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.130235121, y: -.149139747, z: -.0198195893, w: .980001688}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.130235121, y: -.149139747, z: -.0198195893, w: .980001688}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.130235121, y: -.149139747, z: -.0198195893, w: .980001688}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.130235121, y: -.149139747, z: -.0198195893, w: .980001688}
+        inSlope: {x: 1.56282187, y: 1.78967738, z: .237835124, w: .239979804}
+        outSlope: {x: 1.56282187, y: 1.78967738, z: .237835124, w: .239979804}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:tail_drag
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .222993448, z: -.0147257298}
+        inSlope: {x: -0, y: 3.55271368e-15, z: -0}
+        outSlope: {x: -0, y: 3.55271368e-15, z: -0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -0, y: .222993448, z: -.0147257298}
+        inSlope: {x: -0, y: 1.52259159e-15, z: -0}
+        outSlope: {x: -0, y: 3.55271368e-15, z: -0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -0, y: .222993448, z: -.0147257298}
+        inSlope: {x: -0, y: 1.5225917e-15, z: -0}
+        outSlope: {x: -0, y: 3.55271326e-15, z: -0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -0, y: .222993448, z: -.0147257298}
+        inSlope: {x: -0, y: 1.52259138e-15, z: -0}
+        outSlope: {x: -0, y: 3.55271453e-15, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -0, y: .222993448, z: -.0147257298}
+        inSlope: {x: -0, y: 1.52259202e-15, z: -0}
+        outSlope: {x: -0, y: 3.55271326e-15, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .377633661, z: -.04502251}
+        inSlope: {x: -0, y: 7.10542736e-15, z: -8.8817842e-16}
+        outSlope: {x: -0, y: 7.10542736e-15, z: -8.8817842e-16}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -0, y: .377633661, z: -.04502251}
+        inSlope: {x: -0, y: 3.04518318e-15, z: -3.80647898e-16}
+        outSlope: {x: -0, y: 7.10542736e-15, z: -8.8817842e-16}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -0, y: .377633661, z: -.04502251}
+        inSlope: {x: -0, y: 3.0451834e-15, z: -3.80647924e-16}
+        outSlope: {x: -0, y: 7.10542651e-15, z: -8.88178314e-16}
+        tangentMode: 0
+      - time: .125
+        value: {x: -0, y: .377633661, z: -.04502251}
+        inSlope: {x: -0, y: 3.04518276e-15, z: -3.80647845e-16}
+        outSlope: {x: -0, y: 7.10542905e-15, z: -8.88178631e-16}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -0, y: .377633661, z: -.04502251}
+        inSlope: {x: -0, y: 3.04518403e-15, z: -3.80648004e-16}
+        outSlope: {x: -0, y: 7.10542651e-15, z: -8.88178314e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .392084718, y: .365426362, z: -.196099296}
+        inSlope: {x: 3.55271368e-15, y: 7.10542736e-15, z: -0}
+        outSlope: {x: 3.55271368e-15, y: 7.10542736e-15, z: -0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .392084718, y: .365426362, z: -.196099296}
+        inSlope: {x: 1.52259159e-15, y: 3.04518318e-15, z: -0}
+        outSlope: {x: 3.55271368e-15, y: 7.10542736e-15, z: -0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .392084718, y: .365426362, z: -.196099296}
+        inSlope: {x: 1.5225917e-15, y: 3.0451834e-15, z: -0}
+        outSlope: {x: 3.55271326e-15, y: 7.10542651e-15, z: -0}
+        tangentMode: 0
+      - time: .125
+        value: {x: .392084718, y: .365426362, z: -.196099296}
+        inSlope: {x: 1.52259138e-15, y: 3.04518276e-15, z: -0}
+        outSlope: {x: 3.55271453e-15, y: 7.10542905e-15, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .392084718, y: .365426362, z: -.196099296}
+        inSlope: {x: 1.52259202e-15, y: 3.04518403e-15, z: -0}
+        outSlope: {x: 3.55271326e-15, y: 7.10542651e-15, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:right_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00138661044, y: -.0716789439, z: .516737521}
+        inSlope: {x: 6.9388939e-18, y: -8.8817842e-16, z: 4.56777382e-15}
+        outSlope: {x: 6.9388939e-18, y: -8.8817842e-16, z: 4.56777382e-15}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .00138661044, y: -.0716789439, z: .516737521}
+        inSlope: {x: 2.9738117e-18, y: -3.80647898e-16, z: -9.64307962e-15}
+        outSlope: {x: 6.9388939e-18, y: -8.8817842e-16, z: 4.56777467e-15}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .00138661044, y: -.0716789439, z: .516737521}
+        inSlope: {x: 2.97381191e-18, y: -3.80647924e-16, z: -9.64308047e-15}
+        outSlope: {x: 6.93889308e-18, y: -8.88178314e-16, z: 4.56777382e-15}
+        tangentMode: 0
+      - time: .125
+        value: {x: .00138661044, y: -.0716789439, z: .516737521}
+        inSlope: {x: 2.97381129e-18, y: -3.80647845e-16, z: -9.64307793e-15}
+        outSlope: {x: 6.93889556e-18, y: -8.88178631e-16, z: 4.56777552e-15}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .00138661044, y: -.0716789439, z: .516737521}
+        inSlope: {x: 2.97381253e-18, y: -3.80648004e-16, z: -9.64308132e-15}
+        outSlope: {x: 1.64879328e-08, y: 2.01231228e-06, z: 2.35544098e-06}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:snout_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.392125577, y: .365454584, z: -.195970476}
+        inSlope: {x: -3.55271368e-15, y: 7.10542736e-15, z: -1.77635684e-15}
+        outSlope: {x: -3.55271368e-15, y: 7.10542736e-15, z: -1.77635684e-15}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.392125577, y: .365454584, z: -.195970476}
+        inSlope: {x: -1.52259159e-15, y: 3.04518318e-15, z: -7.61295796e-16}
+        outSlope: {x: -3.55271368e-15, y: 7.10542736e-15, z: -1.77635684e-15}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.392125577, y: .365454584, z: -.195970476}
+        inSlope: {x: -1.5225917e-15, y: 3.0451834e-15, z: -7.61295849e-16}
+        outSlope: {x: -3.55271326e-15, y: 7.10542651e-15, z: -1.77635663e-15}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.392125577, y: .365454584, z: -.195970476}
+        inSlope: {x: -1.52259138e-15, y: 3.04518276e-15, z: -7.6129569e-16}
+        outSlope: {x: -3.55271453e-15, y: 7.10542905e-15, z: -1.77635726e-15}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -.392125577, y: .365454584, z: -.195970476}
+        inSlope: {x: -1.52259202e-15, y: 3.04518403e-15, z: -7.61296008e-16}
+        outSlope: {x: -3.55271326e-15, y: 7.10542651e-15, z: -1.77635663e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:left_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .0990879014, z: .0802824572}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 0, y: .0990879014, z: .0802824572}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:eyes_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .430552691, z: .405444354}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 0, y: .430552691, z: .405444354}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:brows_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: -7.10542736e-15, y: 3.04518318e-15, z: -0}
+        outSlope: {x: -7.10542736e-15, y: 3.04518318e-15, z: -0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: -3.04518318e-15, y: 7.10542736e-15, z: -0}
+        outSlope: {x: -7.10542736e-15, y: 3.0451834e-15, z: -0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: -3.0451834e-15, y: 7.10542736e-15, z: -0}
+        outSlope: {x: -7.10542651e-15, y: 3.04518276e-15, z: -0}
+        tangentMode: 0
+      - time: .125
+        value: {x: -.561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: -3.04518276e-15, y: 7.10542651e-15, z: -0}
+        outSlope: {x: -7.10542905e-15, y: 3.04518403e-15, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -.561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: -3.04518403e-15, y: 7.10542905e-15, z: -0}
+        outSlope: {x: -7.10542651e-15, y: 3.04518276e-15, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0157938376, y: -.266587645, z: .0321714506}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -.0157938376, y: -.266587645, z: .0321714506}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag/micro_dragon_clean:left_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: 7.10542736e-15, y: 3.04518318e-15, z: -0}
+        outSlope: {x: 7.10542736e-15, y: 3.04518318e-15, z: -0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: 3.04518318e-15, y: 7.10542736e-15, z: -0}
+        outSlope: {x: 7.10542736e-15, y: 3.0451834e-15, z: -0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: 3.0451834e-15, y: 7.10542736e-15, z: -0}
+        outSlope: {x: 7.10542651e-15, y: 3.04518276e-15, z: -0}
+        tangentMode: 0
+      - time: .125
+        value: {x: .561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: 3.04518276e-15, y: 7.10542651e-15, z: -0}
+        outSlope: {x: 7.10542905e-15, y: 3.04518403e-15, z: -0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .561475217, y: .327547461, z: -.0478677265}
+        inSlope: {x: 3.04518403e-15, y: 7.10542905e-15, z: -0}
+        outSlope: {x: 7.10542651e-15, y: 3.04518276e-15, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0157938376, y: -.266587645, z: .0321714506}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .0157938376, y: -.266587645, z: .0321714506}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag/micro_dragon_clean:right_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0178507268, y: -.0479262732, z: -.480723649}
+        inSlope: {x: 1.11022302e-16, y: -3.80647898e-16, z: -7.10542736e-15}
+        outSlope: {x: 1.11022302e-16, y: -3.80647898e-16, z: -7.10542736e-15}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .0178507268, y: -.0479262732, z: -.480723649}
+        inSlope: {x: 4.75809872e-17, y: -8.8817842e-16, z: -3.04518318e-15}
+        outSlope: {x: 1.11022302e-16, y: -3.80647924e-16, z: -7.10542736e-15}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .0178507268, y: -.0479262732, z: -.480723649}
+        inSlope: {x: 4.75809906e-17, y: -8.8817842e-16, z: -3.0451834e-15}
+        outSlope: {x: 1.11022289e-16, y: -3.80647845e-16, z: -7.10542651e-15}
+        tangentMode: 0
+      - time: .125
+        value: {x: .0178507268, y: -.0479262732, z: -.480723649}
+        inSlope: {x: 4.75809806e-17, y: -8.88178314e-16, z: -3.04518276e-15}
+        outSlope: {x: 1.11022329e-16, y: -3.80648004e-16, z: -7.10542905e-15}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .0178507268, y: -.0479262732, z: -.480723649}
+        inSlope: {x: 4.75810005e-17, y: -8.88178631e-16, z: -3.04518403e-15}
+        outSlope: {x: 3.20475124e-07, y: -5.03761953e-07, z: 4.67515548e-07}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:tail_drag
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .125
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:right_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:snout_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:left_wing_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:eyes_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:head_drag/micro_dragon_clean:brows_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:left_shoulder_drag/micro_dragon_clean:left_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:right_shoulder_drag/micro_dragon_clean:right_arm_drag
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: micro_dragon_clean:root_drag/micro_dragon_clean:body_drag/micro_dragon_clean:tail_drag
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .166666672
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

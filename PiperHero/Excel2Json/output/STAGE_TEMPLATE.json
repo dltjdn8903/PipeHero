@@ -1,0 +1,64 @@
+{
+	"STAGE_TEMPLATE": [
+		{
+			"EPISODE_ID": 1,
+			"STAGE_ID": 1,
+			"SCENE_NAME": "StageScene",
+			"SPAWN_ID": "Spawn_1_1"
+		},
+		{
+			"EPISODE_ID": 1,
+			"STAGE_ID": 2,
+			"SCENE_NAME": "StageScene_2",
+			"SPAWN_ID": "Spawn_1_2"
+		},
+		{
+			"EPISODE_ID": 1,
+			"STAGE_ID": 3,
+			"SCENE_NAME": "StageScene_3",
+			"SPAWN_ID": "Spawn_1_3"
+		},
+		{
+			"EPISODE_ID": 1,
+			"STAGE_ID": 4,
+			"SCENE_NAME": "StageScene_4",
+			"SPAWN_ID": "Spawn_1_4"
+		},
+		{
+			"EPISODE_ID": 1,
+			"STAGE_ID": 5,
+			"SCENE_NAME": "StageScene_5",
+			"SPAWN_ID": "Spawn_1_5"
+		},
+		{
+			"EPISODE_ID": 2,
+			"STAGE_ID": 1,
+			"SCENE_NAME": "StageScene_6",
+			"SPAWN_ID": "Spawn_2_1"
+		},
+		{
+			"EPISODE_ID": 2,
+			"STAGE_ID": 2,
+			"SCENE_NAME": "StageScene_7",
+			"SPAWN_ID": "Spawn_2_2"
+		},
+		{
+			"EPISODE_ID": 2,
+			"STAGE_ID": 3,
+			"SCENE_NAME": "StageScene_8",
+			"SPAWN_ID": "Spawn_2_3"
+		},
+		{
+			"EPISODE_ID": 2,
+			"STAGE_ID": 4,
+			"SCENE_NAME": "StageScene_9",
+			"SPAWN_ID": "Spawn_2_4"
+		},
+		{
+			"EPISODE_ID": 2,
+			"STAGE_ID": 5,
+			"SCENE_NAME": "StageScene_10",
+			"SPAWN_ID": "Spawn_2_5"
+		}
+	]
+}

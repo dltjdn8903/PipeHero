@@ -1,0 +1,40 @@
+{
+	"SOLDIER_TEMPLATE": {
+		"KNIGHT": {
+			"KEY_NAME": "KNIGHT",
+			"SOLDIER_NAME": "기사",
+			"SOLDIERHEAD_IMAGE": "H_Knight",
+			"SOLDIER_PRICE": 500,
+			"SOLDIER_IMAGE": "S_Knight",
+			"SOLDIERINFO_IMAGE": "I_Knight",
+			"SOLDIER_INFO": "팀의 체력을 책임진다."
+		},
+		"SAINT": {
+			"KEY_NAME": "SAINT",
+			"SOLDIER_NAME": "성직자",
+			"SOLDIERHEAD_IMAGE": "H_Priest",
+			"SOLDIER_PRICE": 600,
+			"SOLDIER_IMAGE": "S_Priest",
+			"SOLDIERINFO_IMAGE": "I_Priest",
+			"SOLDIER_INFO": "아프지마 호호"
+		},
+		"MAGICIAN": {
+			"KEY_NAME": "MAGICIAN",
+			"SOLDIER_NAME": "마법사_범위",
+			"SOLDIERHEAD_IMAGE": "H_Magician",
+			"SOLDIER_PRICE": 700,
+			"SOLDIER_IMAGE": "S_Magician",
+			"SOLDIERINFO_IMAGE": "I_Magician",
+			"SOLDIER_INFO": "(범위공격) 혼자있고 싶네요. 모두 꺼져주세요."
+		},
+		"MAGICIAN_ICE": {
+			"KEY_NAME": "MAGICIAN_ICE",
+			"SOLDIER_NAME": "마법사_단일",
+			"SOLDIERHEAD_IMAGE": "H_MagicianIce",
+			"SOLDIER_PRICE": 800,
+			"SOLDIER_IMAGE": "S_MagicianIce",
+			"SOLDIERINFO_IMAGE": "I_MagicianIce",
+			"SOLDIER_INFO": "(단일공격)난 한놈만 패"
+		}
+	}
+}

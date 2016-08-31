@@ -1,0 +1,22 @@
+stand 1~50
+
+walk 55~79
+
+battle 84~114
+
+run 119~141
+
+attack01 146~179
+
+attack02 184~214
+
+hurt 219~238
+
+death 239~290
+
+defense 295~325
+
+counter 330~358
+shield attack 370~386
+
+assault 390~405
