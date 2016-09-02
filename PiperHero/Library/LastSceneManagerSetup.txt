@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/LogoScene.unity
+- path: Assets/Items/NeatWolf/ParticleFX03/_DemoScenes/Magic.unity
   isLoaded: 1
   isActive: 1
